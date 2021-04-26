@@ -22,8 +22,9 @@
 
 ## 커스터마이즈해야할 페이지
 
-    #src/KCP/views 
-    #모든 폼에 들어가는 주문 데이터를 사용자의 환경에 맞춰 수정
+- src/KCP/views/form.blade.php
+- src/KCP/views/mobile-form.blade.php
+- src/KCP/KcpController.php
 
 ## 문의사항
 
