@@ -1,0 +1,17 @@
+{
+    "name": "evanskim/kcp",
+    "description": "KCP Payment Service Unofficial API",
+    "type": "library",
+    "require": {
+        "laravel/laravel": ">=5.7",
+        "php": ">=7.2"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Evans Kim",
+            "email": "evans@kakao.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}
